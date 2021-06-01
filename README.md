@@ -1,2 +1,1 @@
-# ML_projects
-Machiine Learning projects
+# Data Science projects
